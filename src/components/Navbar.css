@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    gap: 1.5rem;
+    padding: 1rem;
+}
+li{
+    list-style-type: none;
+}
+.container{
+    background-color: blanchedalmond;
+}

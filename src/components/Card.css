@@ -1,0 +1,33 @@
+.box{
+    height: 15rem;
+    width: 15rem;
+    border: 2px solid black;
+    /* text-align: center; */
+    /* align-items: center; */
+    /* align-content: center; */
+    /* margin-left: 40rem; */
+    margin-bottom: 1.5rem;
+    display: inline-block;
+    margin-right: 1rem;
+    /* display: flex; */
+    overflow: hidden;
+    margin-left: 5rem;
+    
+
+}
+img{
+    width: 100%;
+    height: 10rem;
+}
+.title{
+    margin-top: 0.5rem;
+
+}
+.title,.para{
+
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
